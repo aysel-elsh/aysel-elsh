@@ -17,6 +17,8 @@ Electrical engineering student at **Florida Atlantic University** (dual enrollme
 
 **[tegkit](https://github.com/aysel-elsh/tegkit)**: a dependency-free Python toolkit for modelling thermoelectric generators (power, efficiency, ZT, I-V curves, Peltier cooling, heat-sink sizing, CLI). Contributors welcome; check the *good first issue* label.
 
+**[cs50-final-project](https://github.com/aysel-elsh/cs50-final-project)**: my Harvard CS50x final project (2022), a command-line calculator in C.
+
 ## 🛠️ Tools
 
 `KiCad` `C/C++` `Python` `MATLAB` `Embedded (Arduino / Portenta)` `ROS` `Unity` `Next.js` `TypeScript` `Tailwind`
