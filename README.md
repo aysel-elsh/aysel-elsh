@@ -19,6 +19,8 @@ Electrical engineering student at **Florida Atlantic University** (dual enrollme
 
 **[pbit-energy-bench](https://github.com/aysel-elsh/pbit-energy-bench)**: does probabilistic-bit (p-bit) sampling actually save energy on a Raspberry Pi? An INA219-measured benchmark against a small neural net (in progress).
 
+**[portfolio](https://github.com/aysel-elsh/portfolio)**: source for my personal site (Next.js, TypeScript, Tailwind).
+
 **[cs50-final-project](https://github.com/aysel-elsh/cs50-final-project)**: my Harvard CS50x final project (2022), a command-line calculator in C.
 
 ## 🛠️ Tools
